@@ -1,5 +1,5 @@
-# Responsive Email Designs
+# Save the Oceans - Responsive Email Design
 
-Various email designs created with MJML
+An email design created with MJML
 
-The designs render perfectly in all clients and email providers, even in Outlook.
+The design renders perfectly in all clients and email providers, even in Outlook.
