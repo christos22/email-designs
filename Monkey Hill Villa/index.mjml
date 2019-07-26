@@ -1,0 +1,90 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Monkey Hill Villa in Barbados</mj-preview>
+    <mj-title>Monkey Hill Villa in Barbados</mj-title>
+    <mj-attributes>
+      <mj-navbar-link font-weight="700" font-size="13px" />
+      <mj-text padding="0" />
+      <mj-all font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" line-height="20px" font-size="13px" color="#777777;" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <!-- Top Header -->
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="left" color="#000000" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">[[HEADLINE]]</span></mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" color="#000000" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="#" style="text-decoration: none; color: inherit;">[[PERMALINK_LABEL]]</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Hero -->
+    <mj-hero mode="fixed-height" height="400px" width="600px" background-width="600px" background-height="300px" background-url="https://monkeyhillbarbados.com/wp-content/uploads/2017/02/front_of_house_sunset_-1920x850.jpg" background-color="#DBE7FD">
+      <mj-image href="#" src="https://monkeyhillbarbados.com/wp-content/uploads/2017/02/Monkey-Hill-Luxury-Villa-Logo-lighter.png" alt="Amario logo" align="center" border="none" width="300px" padding="30px 0 100px"></mj-image>
+    </mj-hero>
+    <!-- Intro -->
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20px">
+      <mj-column width="25%" vertical-align="top"></mj-column>
+      <mj-column width="90%" vertical-align="top">
+        <mj-text align="center" color="rgb(106, 138, 162)" font-size="17px" padding="5px">Luxury rental villa situated on the exclusive West coast of Barbados</mj-text>
+        <mj-text align="justify" padding="5px 0 25px">Monkey Hill is a luxury celebration rental villa situated in the parish of St James on the exclusive west coast of Barbados. The elegant, sprawling eight-bedroom property sits on nearly 2 acres of undulating land on one of the few ridge front lots within the exclusive Sugar Hill Community. Monkey Hill is around 8000 square feet and offers its guests a unique blend of indoor and outdoor living.
+        </mj-text>
+        <mj-button background-color="#1F96D2" color="#FFFFFF" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://monkeyhillbarbados.com/villa-bookings/">CHECK AVAILABILITY</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%" vertical-align="top" padding-bottom="15px">
+        <mj-image src="https://monkeyhillbarbados.com/wp-content/uploads/2017/02/Monkey-Hill-Luxury-Villa-Villa-Front-1920x850.jpg" alt="" align="center" border="none" width="570px"  padding="0 15px"></mj-image>
+      </mj-column>
+
+      <mj-column width="50%" vertical-align="top">
+
+        <mj-image href="#" src="https://t-ec.bstatic.com/images/hotel/max1024x768/102/102266802.jpg" alt="Step 2 - Select a type of boat" align="center" border="none" width="285px" padding="15px"></mj-image>
+
+      </mj-column>
+
+      <mj-column width="50%" vertical-align="top">
+
+        <mj-image href="#" src="https://odis.homeaway.com/odis/listing/d09608b9-3cad-47b1-ac79-46b2e5a62d50.f10.jpg" alt="" align="center" border="none" width="285px" padding="15px"></mj-image>
+      </mj-column>
+
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20px">
+      <mj-column width="25%" vertical-align="top"></mj-column>
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="rgb(106, 138, 162)" font-size="17px" padding="25px">Enjoy stunning views, breath-taking sunsets, glamorous rooms, and spectacular walks along Barbados' most beautiful beaches, only a few minutes away. </mj-text>
+        <mj-image src="https://monkeyhillbarbados.com/wp-content/uploads/2017/02/Sunset-Beach-Barbados-500-500x280.jpg" alt="" align="center" border="none" width="570px" padding="15px"></mj-image>
+
+        <mj-text align="justify" padding="25px">For best rates availability and bookings, visit our website and enquire today. Or if you prefer to contact us through our email or phone we will respond within 24 hours.
+        </mj-text>
+        <mj-button background-color="#1F96D2" color="#FFFFFF" font-size="13px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://monkeyhillbarbados.com/villa-bookings/">MAKE A BOOKING TODAY</mj-button>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="0">
+
+      <mj-column width="100%" vertical-align="top">
+        <mj-image href="#" src="https://monkeyhillbarbados.com/wp-content/uploads/2017/02/Monkey-Hill-Luxury-Villa-Logo-lighter.png" alt="Amario logo" align="center" border="none" width="300px" padding-left="0px" padding-right="0px" padding-bottom="15px" padding-top="10px"></mj-image>
+      </mj-column>
+      <mj-column width="100%" vertical-align="top">
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="20px">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#000000" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:11px">[[DELIVERY_INFO]]</p>
+        </mj-text>
+        <mj-text align="center" color="#000000" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:11px">[[POSTAL_ADDRESS]]</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
